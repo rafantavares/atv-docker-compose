@@ -2,6 +2,10 @@
 
 Atividade de Computação em Nuvem: aplicação Django com upload de arquivos, rodando em 3 containers orquestrados pelo Docker Compose.
 
+## Defesa da atividade
+
+A documentação técnica completa, com a explicação e a justificativa de cada decisão de arquitetura e implementação, está em [**Django conteinerizado com Docker Compose.md**](<Django conteinerizado com Docker Compose.md>) (também disponível em [PDF](<Django conteinerizado com Docker Compose.pdf>)). Esse documento é a resposta usada para a defesa da atividade.
+
 ## Arquitetura
 
 ```
